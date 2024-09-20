@@ -52,7 +52,7 @@ export function UserAuthForm({ className, ...props }: UserAuthFormProps) {
       }
 
       return toast.success('Check your email', {
-         description: 'We sent you a login link. Be sure to check your spam too.',
+         description: "We've sent you a login link. Be sure to check your spam too.",
       })
    }
 
