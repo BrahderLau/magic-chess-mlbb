@@ -2,7 +2,7 @@
 <img alt="StartUp" src="https://cdn.nyxbui.design/startup.gif" width="90%">
 </div>
 
-# Wwbsite URL
+# Website URL
 
 [Magic Chess MLBB Community](https://magic-chess-mlbb.vercel.app/)
 
