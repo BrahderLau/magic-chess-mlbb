@@ -4,7 +4,7 @@
 
 # Wwbsite URL
 
-[Magic Chess MLBB Community](https://magicchessmlbb.netlify.app/)
+[Magic Chess MLBB Community](https://magic-chess-mlbb.vercel.app/)
 
 # StartUp
 
